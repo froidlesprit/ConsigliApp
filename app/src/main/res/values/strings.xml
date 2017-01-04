@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ConsigliApp</string>
+    <string name="large_text">
+        "Welcome To ConsigliApp\n"
+        "This is the Hub for all ConsigliOS, ConsigliOPEN, and ConsigliNEXT OS powered Consiglio Devastations products, including:\n\n\n"
+        "Consiglinator C12,000\n"
+        "Consiglinator C12,001\n"
+        "Consiglinator C12,001x\n"
+        "ConsigliNEXT\n\n\n"
+
+        "Consiglinator .5s (C12,000.5, C12,001.5) are not supported by this app, as Daveian is not supported anymore and has been merged with ConsigliOS.\n\n\n"
+
+        "Store:\n\n\n"
+
+        "Consiglinators:\n\n"
+
+        "Consiglinator C12,001, Ѯ198,000. Now Dustproof, Waterproof, Self-proof, and contains two headphone jacks.\n"
+
+        "ConsigliNEXT, Ѯ500,00. The result of the Consiglinator C12,001x turning into its very own line.\n\n"
+
+        "ConsigLasers:\n\n"
+
+        "Consiglaser, ConsigLaser Lite, and ConsigLaser+ (Ѯ100, Ѯ1, Ѯ101). A series of lasers built as attachments to Consiglinators.\n\n"
+
+        "Consiglinator Accessories:\n\n"
+
+        "3D Rendering Extension, Ѯ0.25. Gives C12,001 devices and below the ability to provide 3D Rendering.\n"
+
+        "ConsigliScreen, Ѯ1.5. A 100-inch Consiglinator monitor. Specially commissioned by Chairman Pete Laberge for his Consiglinator C12,000.\n\n"
+    </string>
+    <string name="action_settings">Made by Ethan Campbell, Consiglio Devastations, Inc</string>
+
+</resources>

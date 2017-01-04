@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "605988593068",
+    "firebase_url": "https://ethanapp-35594.firebaseio.com",
+    "project_id": "ethanapp-35594",
+    "storage_bucket": "ethanapp-35594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605988593068:android:0b6530a49bd9d475",
+        "android_client_info": {
+          "package_name": "io.github.fanofoneplus.ethanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605988593068-domoimjcrpr6k1p52k8stovbfcbgp759.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7IKBfrQ-GvnSGySS5v591i0Bu6MXyuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605988593068:android:7390bfbc0d2aa591",
+        "android_client_info": {
+          "package_name": "com.consigliodevastations.consigliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605988593068-domoimjcrpr6k1p52k8stovbfcbgp759.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7IKBfrQ-GvnSGySS5v591i0Bu6MXyuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
